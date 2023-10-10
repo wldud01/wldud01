@@ -10,7 +10,7 @@ Start is little late , but I'm walking forward steadily, positively and fast!�
 ### 🧾 Experience
 2023
 - **(현재) Naver boostcourse - data science
-  (현재) 서울 경제진흥원 실무 프로젝트형 인공지능 자연어처리 교육 프로그램 이수 중** 
+- (현재) 서울 경제진흥원 실무 프로젝트형 인공지능 자연어처리 교육 프로그램 이수 중** 
 - LG Aimers 교육 수료
 - DACON LG 온라인 판매량 예측 대회 상위 13%(93등/747)
 - CJ remote Internship 우수 수료자 선정
@@ -29,5 +29,5 @@ Start is little late , but I'm walking forward steadily, positively and fast!�
 ![wldud01's github stats](https://github-readme-stats.vercel.app/api?username=wldud01&show_icons=true)
 
 ### ✨Contact
-Email: yunjiyeong0106@gmail.com
-Instagram: @j._.y_y
+- Email: yunjiyeong0106@gmail.com
+- Instagram: @j._.y_y
