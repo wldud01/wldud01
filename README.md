@@ -22,7 +22,6 @@ Start is little late , but I'm walking forward steadily, positively and fast!�
 - SW AI 경진대회 최우수상 
 - Sothern Utha University SW 교육 수료
 - 한국정보과학회 주니어 논문 발표 
-- Nemo partners 기업 전략 컨설팅 수료 - case competition 3위
 
 .
 
