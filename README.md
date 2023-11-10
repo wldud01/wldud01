@@ -25,8 +25,6 @@ Start is little late , but I'm walking forward steadily, positively and fast!ðŸ˜
 
 .
 
-![wldud01's github stats](https://github-readme-stats.vercel.app/api?username=wldud01&show_icons=true)
-
 ### âœ¨Contact
 - Email: yunjiyeong0106@gmail.com
 - Instagram: @j._.y_y
