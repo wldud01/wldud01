@@ -11,7 +11,7 @@ Start is little late , but I'm walking forward steadily, positively and fast!�
 2023
 - 모두의 연구소[Aiffel] - 인공지능 리서치 과정 (현재)
 - Naver boostcourse - data science 수료
-- LG Aimers 교육 수료
+- LG Aimers AI 교육 수료
 - DACON LG 온라인 판매량 예측 대회 상위 13%(93등/747)
 - CJ remote Internship 우수 수료자 선정
 - KISTI AI for Science(NVIDIA) bootcamp 수료
