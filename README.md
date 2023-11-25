@@ -9,8 +9,8 @@ Start is little late , but I'm walking forward steadily, positively and fast!�
 
 ### 🧾 Experience
 2023
-- **(현재) Naver boostcourse - data science
-- (현재) 서울 경제진흥원 실무 프로젝트형 인공지능 자연어처리 교육 프로그램 이수 중** 
+- 모두의 연구소[Aiffel] - 인공지능 리서치 과정 (현재)
+- Naver boostcourse - data science 수료
 - LG Aimers 교육 수료
 - DACON LG 온라인 판매량 예측 대회 상위 13%(93등/747)
 - CJ remote Internship 우수 수료자 선정
@@ -23,7 +23,6 @@ Start is little late , but I'm walking forward steadily, positively and fast!�
 - Sothern Utha University SW 교육 수료
 - 한국정보과학회 주니어 논문 발표 
 
-.
 
 ### ✨Contact
 - Email: yunjiyeong0106@gmail.com
