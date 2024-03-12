@@ -7,18 +7,22 @@
 - python
 - tensorflow
 - pytorch
-- flask
+- Flask
+- FastApi
 - Pandas
+- Numpy
 - matplotlib
-- React.js
-- spring boot
+- Seaborn
+- Docker
 - HTML, CSS
 
 ### 🧾 Experience
 2023
 -  ModuLab [Aiffel] - Current Artificial Intelligence Research Program
-- Naver Boostcourse - Data Science
-- LG Aimers
+- LG B2B Customer sales conversion Prediction Contest - Top 5% (41rd out of 844)
+- Complete LG Aimers 4
+- Naver Boostcourse - Data Science course
+- Complete LG Aimers 3
 - DACON LG Online Sales Prediction Contest - Top 13% (93rd out of 747)
 - CJ Remote Internship - Selected as an Outstanding Graduate
 - KISTI AI for Science (NVIDIA) Bootcamp Completion
@@ -26,7 +30,7 @@
 2022
 - SW AI Competition - Excellence Award
 - Southern Utah University - SW Education
-- Presented at the Korea Computer Congress - Deep Learning-based Text Recognition in Image and Machine Translation. Junior Paper: "Machine Translation for the Preservation of Jeju Dialect"
+- Presented at the KCC 2022 - Deep Learning-based Text Recognition in Image and Machine Translation. Junior Paper: "Machine Translation for the Preservation of Jeju Dialect"
 
 
 ### ✨Contact
