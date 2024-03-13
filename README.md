@@ -19,7 +19,7 @@
  # About me
  
 <p>
- <img align="right" width="300" height="250" right="500" src="/assets/programmer.svg" alt="Coding gif" />
+ <img align="right" width="300" height="210" top="0" src="/assets/programmer.svg" alt="Coding gif" />
  💻 &emsp; Enjoy to do programming and sharing knowledge<br/><br/>
  ❤️ &emsp; Love to learning new features<br/><br/>
  😊 &emsp; Positive Energy!
