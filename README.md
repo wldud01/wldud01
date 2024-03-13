@@ -19,11 +19,10 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.svg" alt="Coding gif" />
- ✌️ &emsp; Enjoy to do programming and sharing knowledge<br/><br/>
+ <img align="right" width="300" height="250" right="500" src="/assets/programmer.svg" alt="Coding gif" />
+ 💻 &emsp; Enjoy to do programming and sharing knowledge<br/><br/>
  ❤️ &emsp; Love to learning new features<br/><br/>
  😊 &emsp; Positive Energy!
-
 </p>
 
 <br/>
@@ -46,5 +45,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<br/>
+<br/>
 
 ## Project
